@@ -168,4 +168,9 @@ cython_debug/
 #.idea/
 
 # PyPI configuration file
+<<<<<<< HEAD
 .pypirc
+=======
+.pypircm2_venv/
+m2_venv
+>>>>>>> 239012b (csv files, python files and plots)
